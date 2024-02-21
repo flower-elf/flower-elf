@@ -2,7 +2,7 @@
 
  ![](https://komarev.com/ghpvc/?username=flower-elf)
 
-- 🌱 I'm A piegon
+- 🌱 I'm A lazy elf
 - 😎 Currently proofreading the Simplified Chinese translation of the VRChat application
 - ❤️ If you want to find me, you can use the contact information below
 - Twitter: @u_flower_elf & Discord:flower_elf#7131
