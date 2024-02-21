@@ -2,8 +2,8 @@
 
  ![](https://komarev.com/ghpvc/?username=flower-elf)
 
-- 🌱 I’m currently prepare for Spring Entrance Examination
-- 😎 So you will see that the activity of this account is relatively low
+- 🌱 I'm A piegon
+- 😎 Currently proofreading the Simplified Chinese translation of the VRChat application
 - ❤️ If you want to find me, you can use the contact information below
 - Twitter: @u_flower_elf & Discord:flower_elf#7131
 
