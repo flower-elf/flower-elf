@@ -4,6 +4,7 @@
 
 - 🌱 I'm A lazy elf
 - 😎 Currently proofreading the Simplified Chinese translation of the VRChat application
+- 🍻My crowdin account：https://zh.crowdin.com/profile/flower_elf
 - ❤️ If you want to find me, you can use the contact information below
 - Twitter: @u_flower_elf & Discord:flower_elf#7131
 
