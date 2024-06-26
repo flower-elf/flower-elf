@@ -11,5 +11,5 @@
 - Signature: 6C58FCC09C03FF4F77C9746B451CCC8217510DA7
 
 
-![flowercelf's GitHub stats](https://github-readme-stats.vercel.app/api?username=flower-elf&count_private=true&theme=tokyonight)  
+![flowercelf's GitHub stats](https://github-readme-stats.vercel.app/api?username=flower-elf&count_private=true&theme=tokyonight&show_icons=true)  
 (You see? Very lazy indeed.)
