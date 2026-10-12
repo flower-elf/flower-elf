@@ -7,8 +7,8 @@
 - 🍻My crowdin account：https://zh.crowdin.com/profile/flower_elf
 - ❤️ If you want to find me, you can use the contact information below
 - Twitter: @u_flower_elf & Discord: @flower_elf & BlueSky: @flowerelf.eu.org
-- My GPG key: [click here](https://raincloud.glaorg.top/GPG)
-- Signature: 6C58FCC09C03FF4F77C9746B451CCC8217510DA7
+- My GPG key: [click here](https://github.com/flower-elf.gpg)
+- Signature: F4C4FF4EEF16E626E1852A8B1ABCDAA727A46B86
 
 
 ![flowercelf's GitHub stats](https://github-readme-stats.vercel.app/api?username=flower-elf&count_private=true&theme=tokyonight&show_icons=true)  
